@@ -10,3 +10,5 @@ King of Diamonds is a mult-player, number-guessing game. The rules of the game i
 The above constitutes one round. Each player starts with 0 points, player with -10 points is eliminated. A new rule is introduced with each eliminated player. 
 
 To make the best approximation, each player has to anticipate guesses of the other players. The game is based on Keynesian Beauty Contest and has applications in trading. 
+
+Visit https://aliceinborderland.link/ for latest.
